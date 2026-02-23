@@ -1,0 +1,5 @@
+{
+  "name": "Video Editor",
+  "description": "An AI-powered video editor and generator using Gemini Veo.",
+  "requestFramePermissions": []
+}
